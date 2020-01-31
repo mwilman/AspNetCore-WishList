@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace WishList.Views
 {
-    public class _ViewImports : PageModel
+    public class _ViewStart : PageModel
     {
         public void OnGet()
         {
